@@ -1,0 +1,15 @@
+.navbar{
+    display: inline-flex;
+    
+
+}
+#courses, #practice, #compiler, #compete{
+    display: inline-flex;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+#logo_top{
+    width: 150px; 
+    margin-left: 10%;
+}
+
